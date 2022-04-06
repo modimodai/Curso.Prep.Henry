@@ -89,7 +89,7 @@ function agregarNumeros(numeros) {
   for(var i=0; i <numeros.length; i++){
 suma = suma + numeros[i]}
 return suma;
-  }
+}
 
 
 
@@ -109,7 +109,7 @@ function numeroMasGrande(numeros) {
 
 function multiplicarArgumentos() {
   // Usa la palabra clave `arguments` para multiplicar todos los argumentos y devolver el producto
-  // Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
+  // Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
   // Escribe tu código aquí:
 }
 
